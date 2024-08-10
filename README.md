@@ -48,6 +48,7 @@ Used to delete a file from directory.
 ![rm](https://github.com/user-attachments/assets/74c49ff9-35da-427d-b708-0636f3b1f9db)
 
 <hr/>
+
 # Eighth command : cd
 Used to change the directory we are currently at.
 
