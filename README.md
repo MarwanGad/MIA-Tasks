@@ -1,1 +1,1 @@
-<h3>Justice League GitHub Repo</h3>
+<h1>Justice League GitHub Repo</h1>
