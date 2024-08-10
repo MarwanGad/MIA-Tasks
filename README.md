@@ -1,4 +1,4 @@
-![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
+![Forks](https://img.shields.io/github/forks/MarwanGad/GitHub-Repo)
 # Justice League Repo
 ## Description
 Hello there! <br/>
