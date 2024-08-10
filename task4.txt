@@ -1,0 +1,3 @@
+ weather : https://colab.research.google.com/drive/1nhoHdhi5XYttmqlGy82G2s-HCl_EwCUX?usp=sharing
+predict : https://colab.research.google.com/drive/1micKFKcvyQDmrs9WILg46ND_p_XQsdol?usp=sharing
+
