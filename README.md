@@ -1,8 +1,4 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 
-
-
-![Forks](https://img.shields.io/github/forks/MarwanGad/GitHub-Repo)
 # Justice League Repo
 ## Description
 Hello there! <br/>
