@@ -1,3 +1,4 @@
+![Forks](https://img.shields.io/badge/forks-44-blue)
 # Justice League Repo
 ## Description
 Hello there! <br/>
