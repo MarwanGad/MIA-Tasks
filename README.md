@@ -1,3 +1,4 @@
+![Stars](https://img.shields.io/github/stars/MarwanGad/GitHub-Repo)
 ![Forks](https://img.shields.io/github/forks/MarwanGad/GitHub-Repo)
 # Justice League Repo
 ## Description
