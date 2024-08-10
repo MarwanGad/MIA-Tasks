@@ -1,2 +1,4 @@
 # Justice League Repo
-## This repo contains all my previous tasks
+## Description
+Hello there!
+This Repo contains all of my previous tasks on MIA training so far!
