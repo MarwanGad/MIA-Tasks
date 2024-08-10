@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/stars/:user/https%3A%2F%2Fgithub.com%2FMarwanGad%2FGitHub-Repo">
+![Stars](https://img.shields.io/badge/stars-13-yellow)
 
 
 ![Forks](https://img.shields.io/github/forks/MarwanGad/GitHub-Repo)
