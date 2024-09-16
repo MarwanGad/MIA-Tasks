@@ -19,6 +19,6 @@ The network is structured in layers. The input layer receives the data, hidden l
 The cost function measures the difference between the predicted outputs and the actual labels. This helps the network learn by adjusting the weights to minimize this error over time.
 
 ### 5. Learning Process
-The network learns through a process called backpropagation, which adjusts the weights based on the error calculated from the cost function. This is done over many iterations (or epochs), gradually improving the accuracy of the network.
+The network learns through a process called backpropagation, which adjusts the weights based on the error calculated from the cost function. This is done over many iterations or epochs, gradually improving the accuracy of the network.
 
 
