@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a basic neural network from scratch, based on Chapter 1 of Michael Nielsen’s *Neural Networks and Deep Learning*. The goal of this project is to recognize handwritten digits from a dataset similar to the MNIST dataset.
+This task implements a basic neural network from scratch, based on Chapter 1 of Michael Nielsen’s *Neural Networks and Deep Learning*. The goal of this project is to recognize handwritten digits from a dataset similar to the MNIST dataset.
 
 ## Concepts
 
